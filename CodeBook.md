@@ -1,10 +1,7 @@
-# Following are the variables.
-# A general description is as follows.
-# subject takes integer values from 1 to 30 for 30 different subjects-
-# label takes 6 lables namely - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
-# Rest are mean and std variables which take numerical values. Name of mean variables ends with "_mean" and sd variable
-# ends with "_sd"
-
+Following are the variables. A general description is as follows. 
+`subject` takes integer values from 1 to 30 for 30 different subjects. 
+`label` takes 6 labels namely - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+Rest are mean and std variables which take numerical values. Name of mean variables ends with "_mean" and sd variable ends with "_sd"
 
 subject
 label 
